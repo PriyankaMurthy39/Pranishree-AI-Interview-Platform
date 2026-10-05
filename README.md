@@ -10,7 +10,7 @@ The platform brings the complete preparation journey into one workflow:
 
 ---
 
-## 📸 Screenshots
+
 
 ## 📸 Screenshots
 
