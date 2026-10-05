@@ -9,6 +9,15 @@ The platform brings the complete preparation journey into one workflow:
 > **Resume → Role Matching → Interview → Evaluation → Feedback → Progress**
 
 ---
+# 🎯 Pranishree AI Interview Platform
+
+> AI-Powered Mock Interview, Proctoring & Resume Matching Platform
+
+🚀 **[Live Demo](https://pranishree-ai-interview-platform.vercel.app/)**   |   💻 **[GitHub Repository](https://github.com/PriyankaMurthy39/Pranishree-AI-Interview-Platform)**
+
+> 💡 Best experienced on desktop with microphone and camera permissions enabled.
+
+---
 
 
 
