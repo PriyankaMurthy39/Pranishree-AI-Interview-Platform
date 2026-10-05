@@ -614,7 +614,7 @@ Pranishree aims to evolve from a mock interview application into a complete **AI
 
 # 👩‍💻 Author
 
-## Priyanka Murthy
+## Priyanka M
 
 **B.E. Artificial Intelligence & Data Science**
 
