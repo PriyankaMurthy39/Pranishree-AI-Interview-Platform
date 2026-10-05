@@ -12,35 +12,40 @@ The platform brings the complete preparation journey into one workflow:
 
 ## 📸 Screenshots
 
-### 🏠 Home
+## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/home.png" width="850"/>
-</p>
+### 🏠 Home Page
 
-### 🤖 Resume & Role Matching
+<img src="Screenshots/home.png" width="850"/>
 
-<p align="center">
-  <img src="screenshots/role-matching.png" width="850"/>
-</p>
+### 📄 Resume Analyzer
 
-### 📝 ATS Resume Builder
+<img src="Screenshots/resume analyzer.png" width="850"/>
 
-<p align="center">
-  <img src="screenshots/resume-builder.png" width="850"/>
-</p>
+### 🎯 Role Selection
 
-### 🎙️ AI Interview Room
+<img src="Screenshots/roles.png" width="850"/>
 
-<p align="center">
-  <img src="screenshots/interview.png" width="850"/>
-</p>
+### 📝 Resume Builder
 
-### 📊 Interview Results & Analytics
+<img src="Screenshots/resume.png" width="850"/>
 
-<p align="center">
-  <img src="screenshots/results.png" width="850"/>
-</p>
+### 🎤 AI Interview
+
+<img src="Screenshots/interview.png" width="850"/>
+
+### 🎥 Proctored Interview
+
+<img src="Screenshots/interview1.png" width="850"/>
+
+### 📊 Interview Feedback
+
+<img src="Screenshots/feedback.png" width="850"/>
+
+### 📈 Interview Results & Analytics
+
+<img src="Screenshots/feedback1.png" width="850"/>
+
 
 ---
 
